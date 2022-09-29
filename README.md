@@ -9,6 +9,10 @@
 
 # this code for allow CORS origin 
 # (CORS) Cross-Origin Resource Sharing 
+# an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources
+
+
+
 
 # its write in  <system.webServer> in Web.Config
  
