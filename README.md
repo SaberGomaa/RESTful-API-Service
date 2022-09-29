@@ -7,7 +7,8 @@
 # This Error because origin is changed from  '82'  to '51728' ITs  blocked by CORS policy to avoid third-party  & hacking
 
 
-# this code for allow cross origin 
+# this code for allow CORS origin 
+# (CORS) Cross-Origin Resource Sharing 
 
 # its write in  <system.webServer> in Web.Config
  
