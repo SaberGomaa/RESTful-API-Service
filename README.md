@@ -39,3 +39,6 @@
             }
         }
 }
+
+# (Active server pages)ASP.net Life cycle 
+https://www.javatpoint.com/asp-net-life-cycle
