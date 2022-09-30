@@ -33,7 +33,7 @@
  protected void Application_BeginRequest()
         {
             // condition for Make sure its preflight request
-            if(Request.Headers.AllKeys.Contains("origin") && Request.HttpMethod == "OPTIONS")
+            if(Request.Headers.AllKeys.Contains("Origin") && Request.HttpMethod == "OPTIONS")
             {
                 Response.Flush();
             }
